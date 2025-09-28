@@ -1,1 +1,2 @@
 Hello from a.txt
+Adding a new line to a.txt
